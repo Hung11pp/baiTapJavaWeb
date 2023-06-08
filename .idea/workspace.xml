@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Chapter9SpringBoot_Jpa_Jsp:war" />
+      <artifact name="Chapter9SpringBoot_Jpa_Jsp:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9862826a-ee20-4dc5-8f44-01888c4cf893" name="Default Changelist" comment="Cập nhật lần 1" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="2Mj3FxI227lmX5ZRymWQVqkPs62" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/84964/Desktop/jajaWeb/copyBaidung&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\IntelliJProjects\Chapter6SpringBoot_Jpa_Jsp\src\main\java\mta" />
+      <recent name="E:\IntelliJProjects\Chapter6SpringBoot_Jpa_Jsp\src\main\webapp\excepts" />
+      <recent name="E:\IntelliJProjects\Chapter6SpringBoot_Jpa_Jsp\src\main\webapp\views" />
+      <recent name="E:\IntelliJProjects\Chapter6SpringBoot_Jpa_Jsp\src\main\java\mta\mvcException" />
+      <recent name="E:\IntelliJProjects\Chapter9SpringBoot_Jpa_Jsp\src\main\webapp\viewsSpringForm" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\IntelliJProjects\Chapter6SpringBoot_Jpa_Jsp\src\main\webapp\excepts" />
+      <recent name="E:\IntelliJProjects\Chapter9SpringBoot_Jpa_Jsp\src\main\java\mta\mvc\controller" />
+      <recent name="E:\IntelliJProjects\Chapter9SpringBoot_Jpa_Jsp\src\main\webapp" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="mta.exceptionSpringMVC.exceptionGlobal" />
+      <recent name="mta.mvc" />
+      <recent name="mta.mvc.serviceImpl" />
+      <recent name="mta.mvc.service" />
+      <recent name="mta.mvc.controller" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.EMSApplication">
+    <configuration name="Application (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mta.otherAnnotations.qualifier.Application" />
+      <module name="Chapter9SpringBoot_Jpa_Jsp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mta.otherAnnotations.qualifier.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EMSApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mta.EMSApplication" />
+      <module name="Chapter9SpringBootJsp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mta.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EMSApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="Chapter9SpringBoot_Jpa_Jsp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mta.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="mta.EMSApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SHORTEN_COMMAND_LINE" value="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Index_ParamRequest.jsp" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" temporary="true" APPLICATION_SERVER_NAME="Tomcat 9 Local" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/params/Index_ParamRequest.jsp" />
+      <deployment>
+        <artifact name="Chapter9SpringBoot_Jpa_Jsp:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/Chapter9SpringBoot_Jpa_Jsp_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings />
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Chapter9SpringBoot_Jpa_Jsp:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="Tomcat 9 Local" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9 Local" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="Chapter9SpringBoot_Jpa_Jsp:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="0e8a9d0e-05bd-488a-9952-0cb502edb743" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="59042" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Chapter9SpringBoot_Jpa_Jsp:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="add-employee.jsp" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" temporary="true" APPLICATION_SERVER_NAME="Tomcat 9 Local" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/viewsSpringForm/add-employee.jsp" />
+      <deployment>
+        <artifact name="Chapter9SpringBoot_Jpa_Jsp:war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/Chapter9SpringBoot_Jpa_Jsp_war" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="2c1ed56d-d081-4de6-94cd-f11b18088116" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Chapter9SpringBoot_Jpa_Jsp:war" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.EMSApplication" />
+      <item itemvalue="Application.Application (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.EMSApplication" />
+        <item itemvalue="Application.Application (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9862826a-ee20-4dc5-8f44-01888c4cf893" name="Default Changelist" comment="" />
+      <created>1678267066002</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678267066002</updated>
+      <workItem from="1678267067302" duration="31000" />
+      <workItem from="1678267168602" duration="2120000" />
+      <workItem from="1678329611339" duration="7315000" />
+      <workItem from="1678340839169" duration="74000" />
+      <workItem from="1678349685404" duration="2791000" />
+      <workItem from="1678353862332" duration="12252000" />
+      <workItem from="1678403386741" duration="678000" />
+      <workItem from="1678406882654" duration="2000" />
+      <workItem from="1678433169035" duration="12451000" />
+      <workItem from="1678463362189" duration="5756000" />
+      <workItem from="1678503337859" duration="327000" />
+      <workItem from="1678503688907" duration="1156000" />
+      <workItem from="1678504959383" duration="682000" />
+      <workItem from="1678507987245" duration="4640000" />
+      <workItem from="1678524580063" duration="19000" />
+      <workItem from="1678524624866" duration="6000" />
+      <workItem from="1678533316431" duration="6000" />
+      <workItem from="1678545585354" duration="344000" />
+      <workItem from="1678624999617" duration="7670000" />
+      <workItem from="1678673801600" duration="841000" />
+      <workItem from="1679385032305" duration="815000" />
+      <workItem from="1679387313888" duration="1314000" />
+      <workItem from="1679445889572" duration="1215000" />
+      <workItem from="1679532197482" duration="3612000" />
+      <workItem from="1679556605455" duration="41000" />
+      <workItem from="1680224764268" duration="69000" />
+      <workItem from="1680225832625" duration="3479000" />
+      <workItem from="1680273513886" duration="9000" />
+      <workItem from="1684809277463" duration="31000" />
+      <workItem from="1684810414393" duration="100000" />
+      <workItem from="1684810520191" duration="115000" />
+      <workItem from="1684812973913" duration="429000" />
+      <workItem from="1684828598452" duration="626000" />
+      <workItem from="1684942304310" duration="71000" />
+      <workItem from="1685112224377" duration="361000" />
+      <workItem from="1685119107691" duration="55000" />
+      <workItem from="1685413497230" duration="92000" />
+      <workItem from="1685460973095" duration="642000" />
+      <workItem from="1685498639415" duration="36000" />
+      <workItem from="1685507836842" duration="2000" />
+      <workItem from="1685507864433" duration="74000" />
+      <workItem from="1685587431403" duration="13349000" />
+      <workItem from="1685630390284" duration="3131000" />
+      <workItem from="1685633565741" duration="270000" />
+      <workItem from="1685633857454" duration="316000" />
+      <workItem from="1685634194799" duration="1154000" />
+      <workItem from="1685636016829" duration="32000" />
+      <workItem from="1685636478161" duration="469000" />
+      <workItem from="1685636980087" duration="1093000" />
+      <workItem from="1685662951780" duration="6000" />
+      <workItem from="1685676866975" duration="109000" />
+      <workItem from="1685677445171" duration="11000" />
+      <workItem from="1685679522090" duration="357000" />
+      <workItem from="1685680626663" duration="1536000" />
+      <workItem from="1685687334012" duration="2000" />
+      <workItem from="1685698578769" duration="605000" />
+      <workItem from="1685705156556" duration="20000" />
+      <workItem from="1685756453943" duration="4651000" />
+      <workItem from="1685762466485" duration="2567000" />
+      <workItem from="1685766496126" duration="966000" />
+    </task>
+    <task id="LOCAL-00001" summary="Cập nhật lần 1">
+      <created>1679445983316</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1679445983316</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="3851ff09-51d0-4466-8b2c-0a1c0db98772" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="3851ff09-51d0-4466-8b2c-0a1c0db98772">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Cập nhật lần 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Cập nhật lần 1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/mta/mvc/controller/RegistrationController.java</url>
+          <line>62</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/mta/modelViewParamsReqsVariablesPaths/ParamsController.java</url>
+          <line>64</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Chapter9SpringBootJsp$EMSApplication.ic" NAME="EMSApplication Coverage Results" MODIFIED="1678330761620" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.ems.main.*</FILTER>
+    </SUITE>
+  </component>
+</project>

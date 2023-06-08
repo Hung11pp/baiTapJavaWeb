@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Chapter9SpringBoot_Jpa_Jsp:war" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9862826a-ee20-4dc5-8f44-01888c4cf893" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="2Mj3FxI227lmX5ZRymWQVqkPs62" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/webapp/viewsSpringForm" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.21806854" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="show.run.dashboard.notification" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\IntelliJProjects\Chapter9SpringBoot_Jpa_Jsp\src\main\webapp\viewsSpringForm" />
+      <recent name="E:\IntelliJProjects\Chapter9SpringBoot_Jpa_Jsp\src\main\resources" />
+      <recent name="E:\IntelliJProjects\Chapter9SpringBoot_Jpa_Jsp\src\main\java\mta\otherAnnotations\propertyResource" />
+      <recent name="E:\IntelliJProjects\Chapter9SpringBoot_Jpa_Jsp\src\main\java\mta\otherAnnotations" />
+      <recent name="E:\IntelliJProjects\Chapter9SpringBoot_Jpa_Jsp\src\main\java\mta\aopDemo" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\IntelliJProjects\Chapter9SpringBoot_Jpa_Jsp\src\main\java\mta\mvc\controller" />
+      <recent name="E:\IntelliJProjects\Chapter9SpringBoot_Jpa_Jsp\src\main\webapp" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="mta.mvc" />
+      <recent name="mta.mvc.serviceImpl" />
+      <recent name="mta.mvc.service" />
+      <recent name="mta.mvc.controller" />
+      <recent name="mta.modelAndView" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.add-employee.jsp">
+    <configuration name="Application (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mta.otherAnnotations.qualifier.Application" />
+      <module name="Chapter9SpringBoot_Jpa_Jsp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mta.otherAnnotations.qualifier.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mta.otherAnnotations.primary.Application" />
+      <module name="Chapter9SpringBoot_Jpa_Jsp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mta.otherAnnotations.primary.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringMainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mta.otherAnnotations.propertyResource.SpringMainClass" />
+      <module name="Chapter9SpringBoot_Jpa_Jsp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mta.otherAnnotations.propertyResource.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EMSApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="Chapter9SpringBoot_Jpa_Jsp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mta.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="mta.EMSApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 9 Local" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9 Local" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="Chapter9SpringBoot_Jpa_Jsp:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="0e8a9d0e-05bd-488a-9952-0cb502edb743" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="59042" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Chapter9SpringBoot_Jpa_Jsp:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="add-employee.jsp" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" temporary="true" APPLICATION_SERVER_NAME="Tomcat 9 Local" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/viewsSpringForm/add-employee.jsp" />
+      <deployment>
+        <artifact name="Chapter9SpringBoot_Jpa_Jsp:war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/Chapter9SpringBoot_Jpa_Jsp_war" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="2c1ed56d-d081-4de6-94cd-f11b18088116" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Chapter9SpringBoot_Jpa_Jsp:war" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.SpringMainClass" />
+      <item itemvalue="Application.Application" />
+      <item itemvalue="Application.Application (1)" />
+      <item itemvalue="Spring Boot.EMSApplication" />
+      <item itemvalue="Tomcat Server.Tomcat 9 Local" />
+      <item itemvalue="Tomcat Server.add-employee.jsp" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Tomcat Server.add-employee.jsp" />
+        <item itemvalue="Spring Boot.EMSApplication" />
+        <item itemvalue="Application.Application (1)" />
+        <item itemvalue="Application.Application" />
+        <item itemvalue="Application.SpringMainClass" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9862826a-ee20-4dc5-8f44-01888c4cf893" name="Default Changelist" comment="" />
+      <created>1678267066002</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678267066002</updated>
+      <workItem from="1678267067302" duration="31000" />
+      <workItem from="1678267168602" duration="2120000" />
+      <workItem from="1678329611339" duration="7315000" />
+      <workItem from="1678340839169" duration="74000" />
+      <workItem from="1678349685404" duration="2791000" />
+      <workItem from="1678353862332" duration="12252000" />
+      <workItem from="1678403386741" duration="678000" />
+      <workItem from="1678406882654" duration="2000" />
+      <workItem from="1678433169035" duration="12451000" />
+      <workItem from="1678463362189" duration="5756000" />
+      <workItem from="1678503337859" duration="327000" />
+      <workItem from="1678503688907" duration="1156000" />
+      <workItem from="1678504959383" duration="682000" />
+      <workItem from="1678507987245" duration="4640000" />
+      <workItem from="1678524580063" duration="19000" />
+      <workItem from="1678524624866" duration="6000" />
+      <workItem from="1678533316431" duration="6000" />
+      <workItem from="1678545585354" duration="344000" />
+      <workItem from="1678624999617" duration="7670000" />
+      <workItem from="1678673801600" duration="841000" />
+      <workItem from="1679385032305" duration="815000" />
+      <workItem from="1679386650035" duration="494000" />
+      <workItem from="1679387203273" duration="11000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/mta/mvc/controller/RegistrationController.java</url>
+          <line>62</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Chapter9SpringBootJsp$EMSApplication.ic" NAME="EMSApplication Coverage Results" MODIFIED="1678330761620" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.ems.main.*</FILTER>
+    </SUITE>
+  </component>
+</project>
