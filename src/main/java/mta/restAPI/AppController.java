@@ -174,5 +174,22 @@ public class AppController {
         Order updatedOrder = orderService.update(existingOrder);
         return ResponseEntity.ok(updatedOrder);
     }
+    @CrossOrigin
+    @DeleteMapping("/orders/{orderId}/products/{productId}")
+    public ResponseEntity<Order> removeProductFromOrder(@PathVariable Long orderId, @PathVariable Long productId) {
+        Order existingOrder = orderService.get(orderId);
+        if (existingOrder == null) {
+            return new ResponseEntity<>(HttpStatus.NOT_FOUND);
+        }
+
+        Product product = productService.get(productId);
+        if (product == null) {
+            return new ResponseEntity<>(HttpStatus.NOT_FOUND);
+        }
+
+        existingOrder.removeProduct(product);
+        Order updatedOrder = orderService.update(existingOrder);
+        return ResponseEntity.ok(updatedOrder);
+    }
 
 }

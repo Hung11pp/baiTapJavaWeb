@@ -1,5 +1,6 @@
 package mta.manyToMany;
 
+import com.fasterxml.jackson.annotation.JsonBackReference;
 import mta.oneToMany.User;
 
 import javax.persistence.*;
@@ -67,17 +68,29 @@ public class Order {
         return products;
     }
 
+
     public void setProducts(Set<Product> products) {
         this.products = products;
     }
     public void addProduct(Product product) {
         products.add(product);
+        setTotalPrice();
+    }
+    public void removeProduct(Product product) {
+        products.remove(product);
+        setTotalPrice();
     }
 
     public void setTotalPrice() {
-        totalPrice = BigDecimal.ZERO;
-        for (Product product : products) {
-            totalPrice = totalPrice.add(product.getPrice());
+        if (products != null && !products.isEmpty()) {
+            totalPrice = BigDecimal.ZERO;
+            for (Product product : products) {
+                if (product.getPrice() != null) {
+                    totalPrice = totalPrice.add(product.getPrice());
+                }
+            }
+        } else {
+            totalPrice = BigDecimal.ZERO;
         }
     }
 

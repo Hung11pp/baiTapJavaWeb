@@ -29,11 +29,41 @@ public class OrderService {
     public void delete(long id) {
         repo.deleteById(id);
     }
+
+
     @Autowired
     private OrderRepository orderRepository;
     public Order update(Order order) {
         order.setTotalPrice();
         return orderRepository.save(order);
     }
+    @Autowired
+    private ProductRepository productRepository;
+    public Order addProduct(Long orderId, Long productId) {
+        Order order = orderRepository.findById(orderId).orElse(null);
+        Product product = productRepository.findById(productId).orElse(null);
+
+        if (order != null && product != null) {
+            order.getProducts().add(product);
+            order.setTotalPrice();
+            return orderRepository.save(order);
+        }
+
+        return null;
+    }
+    public Order removeProduct(Long orderId, Long productId) {
+        Order order = orderRepository.findById(orderId).orElse(null);
+        Product product = productRepository.findById(productId).orElse(null);
+
+        if (order != null && product != null) {
+            order.getProducts().remove(product);
+            order.setTotalPrice();
+            return orderRepository.save(order);
+        }
+
+        return null;
+    }
+
+
 
 }

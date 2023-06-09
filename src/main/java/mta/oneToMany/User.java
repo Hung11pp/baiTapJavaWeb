@@ -1,5 +1,6 @@
 package mta.oneToMany;
 
+import com.fasterxml.jackson.annotation.JsonBackReference;
 import mta.manyToMany.Order;
 
 import javax.persistence.*;
@@ -20,6 +21,7 @@ public class User {
     @Column(nullable = false)
     private String email;
     @OneToMany(mappedBy = "user", cascade = CascadeType.ALL)
+    @JsonBackReference
     private Set<Order> orders;
 
     // Constructors, getters, setters, and other methods

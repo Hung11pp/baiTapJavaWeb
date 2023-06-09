@@ -1,5 +1,7 @@
 package mta.manyToMany;
 
+import com.fasterxml.jackson.annotation.JsonBackReference;
+
 import javax.persistence.*;
 import java.math.BigDecimal;
 import java.util.Set;
@@ -21,6 +23,7 @@ public class Product {
     private String descripton;
 
     @ManyToMany(mappedBy = "products")
+    @JsonBackReference
     private Set<Order> orders;
 
     public BigDecimal getPrice() {
